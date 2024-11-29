@@ -148,11 +148,11 @@
 
 ### 场景图示
 
-![](D:\Documents\Github\images\场景图示-1732851270601-16.png)
+![](D:\Documents\Github\privatelink\images\场景图示.png)
 
 ### 使用流程
 
-![](D:\Documents\Github\images\使用流程-1732851258158-14.png)
+![](D:\Documents\Github\privatelink\images\使用流程.png)
 
 ### 配置流程
 
