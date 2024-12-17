@@ -1,24 +1,26 @@
 <!-- 请勿添加产品标题，标题行将由系统自动增加，名称将于您申请邮件提供的仓库名称一致 -->
 
 * [概览](/仓库名称/README.md)
-* 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
-   * [什么是云主机](相对链接)
-   * [功能与优势](相对链接)
-   * [应用场景](相对链接)
-* 计费
-   * [计费模式](相对链接)
-   * [定价表](相对链接)
-   * [配置变更](相对链接)
-   * [续费](相对链接)
-   * [退款](相对链接)
-* 注意事项与使用限制
-   * [注意事项描述](相对链接)
-* 创建第一台云主机
-   * [创建资源](相对链接)
+* 产品简介
+   * [产品概述](/privatelink/introduction/privatelink)
+   * [名词解释](/privatelink/introduction/termsexplanation)
+   * [使用限制](/privatelink/introduction/limit)
+* 购买指南
+   * [计费规则](/privatelink/buyguide/chargerule)
+   * [欠费说明](/privatelink/buyguide/owe)
+* 快速入门
+   * [前提条件](/privatelink/briefguide/precondition)
+   * [场景图示](/privatelink/briefguide/scene)
+   * [使用流程](/privatelink/briefguide/usageprocess)
+   * [配置流程](/privatelink/briefguide/setup)
 * 操作指南
-   * [创建](相对链接)
-   * [管理](相对链接)
-* 常见问题
-   * 场景相关 <!-- 平台已支持三级及以下目录收起展开，为确保点击区域充分，包含三级目录的二级标题请勿添加链接 -->
-      * [问题描述](相对链接)
-* [词汇表](/仓库名称/_glossary.md)
+   * [终端节点服务](/privatelink/guide/endpointservice)
+   * [终端节点](/privatelink/guide/endpoint)
+   * [监控项【待补充】](/privatelink/guide/monitor)
+* 最佳实践
+   * [不同账户下的VPC服务共享连接](/privatelink/practice/example)
+* 开发指南
+   * [API](/privatelink/developmentguide/API)
+   * [SDK](/privatelink/developmentguide/SDK)
+* [常见问题](/privatelink/faq)
+* [相关协议](/privatelink/relevantprotocol)
