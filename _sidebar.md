@@ -1,6 +1,6 @@
 <!-- 请勿添加产品标题，标题行将由系统自动增加，名称将于您申请邮件提供的仓库名称一致 -->
 
-* [概览](/仓库名称/README.md)
+* [私有连接 PrivateLink](/私有连接 PrivateLink/README.md)
 * 产品简介
    * [产品概述](/privatelink/introduction/privatelink)
    * [名词解释](/privatelink/introduction/termsexplanation)
