@@ -6,5 +6,5 @@
 
 ![whiteboard_exported_image 1.png](images/whiteboard_exported_image 1.png)
 
-[![截屏2020-02-17下午3.15.18](images/%E6%88%AA%E5%B1%8F2020-02-17%E4%B8%8B%E5%8D%883.15.18-1924205.png)
+![截屏2020-02-17下午3.15.18](images/%E6%88%AA%E5%B1%8F2020-02-17%E4%B8%8B%E5%8D%883.15.18-1924205.png)
 
