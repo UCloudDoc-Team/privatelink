@@ -14,7 +14,6 @@
 - 操作指南
   * [终端节点服务](/privatelink/guide/endpointservice)
   * [终端节点](/privatelink/guide/endpoint)
-  * [监控项【待补充】](/privatelink/guide/monitor)
 - 最佳实践
   * [不同账户下的VPC服务共享连接](/privatelink/practice/example)
 - 开发指南
