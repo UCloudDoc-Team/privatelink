@@ -16,8 +16,3 @@
   * [终端节点](/privatelink/guide/endpoint)
 - 最佳实践
   * [不同账户下的VPC服务共享连接](/privatelink/practice/example)
-- 开发指南
-  * [API](/privatelink/developmentguide/API)
-  * [SDK](/privatelink/developmentguide/SDK)
-- [常见问题](/privatelink/faq)
-- [相关协议](/privatelink/relevantprotocol)
