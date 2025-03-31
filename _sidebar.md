@@ -3,7 +3,6 @@
 * [概览](/privatelink/README.md)
 * 产品简介
    * [产品概述](/privatelink/introduction/privatelink)
-   * [名词解释](/privatelink/introduction/termsexplanation)
    * [使用限制](/privatelink/introduction/limit)
 * 购买指南
    * [计费规则](/privatelink/buyguide/chargerule)

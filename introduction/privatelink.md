@@ -2,9 +2,35 @@
 
 私有连接能够通过内网建立服务使用者与服务提供者之间安全、简单的网络连接，由终端节点和终端节点服务两部分组成，其中终端节点服务由服务提供方提供，是提供服务的实例；终端节点由服务使用者创建。使用者通过终端节点来访问终端节点服务提供的服务。
 
-![whiteboard_exported_image 1.png](images/whiteboard_exported_image1.png)
-
-![whiteboard_exported_image 1.png](images/whiteboard_exported_image 1.png)
-
 ![截屏2020-02-17下午3.15.18](images/产品概述1.png)
+
+### 名词解释
+
+<table>
+  <tr>
+    <th><b>类型</b></th>
+    <th><b>名词</b></th>
+    <th><b>描述</b></th>
+  </tr>
+  <tr>
+    <td rowspan="3">服务提供方</td>
+    <td>终端节点服务</td>
+    <td>由服务提供方创建与管理，可被其他VPC通过创建终端节点建立私网连接的服务</td>
+  </tr>
+  <tr>
+    <td>服务资源</td>
+    <td>终端节点服务中可以被终端节点访问的资源，如应用型负载均衡ALB。</td>
+  </tr>
+  <tr>
+    <td>白名单</td>
+    <td>用于控制访问终端节点服务中服务资源的用户范围。</td>
+  </tr>
+  <tr>
+    <td>服务使用者</td>
+    <td>终端节点</td>
+    <td>由服务使用者创建与管理，可与终端节点服务建立私网连接。是终端节点VPC访问终端节点服务的入口。</td>
+  </tr>
+</table>
+
+
 

@@ -23,35 +23,26 @@
   </tr>
    <tr>
     <td>终端节点服务支持的流量</td>
-    <td>IPv4,<b>双栈</b></td>
+    <td>IPv4</td>
   </tr>
    <tr>
-    <td>终端节点服务支持的协议</td>
-    <td>TCP、UDP（仅支持这两种或基于这两种之上的协议）</td>
   </tr>
   <tr>
     <td rowspan="5">终端节点</td>
     <td>终端节点数量</td>
     <td>50</td>
   </tr>
-  <tr>
-    <td>单个VPC到单个终端节点服务的终端节点数量</td>
-    <td>1个</td>
-  </tr>
    <tr>
     <td>终端节点支持的流量</td>
-    <td>IPv4,<b>双栈</b></td>
+    <td>IPv4</td>
   </tr>
    <tr>
-    <td>单个终端节点网卡可支持的带宽</td>
-    <td>100-10240Mbps</td>
-  </tr>
-   <tr>
-    <td>终端节点支持的协议</td>
-    <td>TCP、UDP</td>
+    <td>单个终端节点可支持的带宽上限</td>
+    <td>10240Mbps</td>
   </tr>
 </table>
 
 #### 其他限制
 
 不支持跨地域的私有连接
+
